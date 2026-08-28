@@ -13,7 +13,8 @@ O aplicativo não representa uma loja completa. Seu foco é demonstrar os elemen
 O Design System e as telas que serviram de referência estão disponíveis no Figma:
 
 [Acessar o arquivo no Figma dos componentes](https://www.figma.com/design/XMDnq5YQuiBs078972QIpQ/Fashion-App-UI-UX-Design-in-Figma--Easy-Web-Design-Tutorial--Community-?node-id=2006-2) 
-[Acessar o arquivo no Figma das telas] https://www.figma.com/design/XMDnq5YQuiBs078972QIpQ/Fashion-App-UI-UX-Design-in-Figma--Easy-Web-Design-Tutorial--Community-?node-id=0-1&t=0WNK3CVYsgodqyJu-1
+
+[Acessar o arquivo no Figma das telas] (https://www.figma.com/design/XMDnq5YQuiBs078972QIpQ/Fashion-App-UI-UX-Design-in-Figma--Easy-Web-Design-Tutorial--Community-?node-id=0-1&t=0WNK3CVYsgodqyJu-1)
 
 ## Funcionalidades
 
